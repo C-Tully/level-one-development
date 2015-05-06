@@ -13,6 +13,11 @@ $RECYCLE.BIN/
 *.msi
 *.msm
 *.msp
+concrete/*
+config/site.php
+files/cache/*
+files/tmp/*
+languages/
 
 # Windows shortcuts
 *.lnk
