@@ -17,7 +17,9 @@ concrete/*
 config/site.php
 files/cache/*
 files/tmp/*
-languages/
+languages/*
+.sass-cache
+*.css.map
 
 # Windows shortcuts
 *.lnk
